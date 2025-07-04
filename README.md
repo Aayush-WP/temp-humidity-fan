@@ -46,7 +46,7 @@ The Arduino reads temperature and humidity from the DHT11 sensor every 2 seconds
 
 ## 🖼️ Project Images
 ![Circuit_Diagram](https://github.com/user-attachments/assets/2627b02c-6fa9-4060-ae3a-addf00250424)
-![Circuit_Diagram](https://github.com/user-attachments/assets/2843c5bf-654d-401b-babe-4dc801b7e4f3)
+![Project](https://github.com/user-attachments/assets/674548be-542c-4e5b-ad30-9661952465b7)
 
 
 
