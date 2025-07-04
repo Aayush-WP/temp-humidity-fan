@@ -1,0 +1,7 @@
+References:
+•	Arduino Uno: https://store.arduino.cc/products/arduino-uno-rev3
+•	DHT11 Sensor Datasheet: https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT11.pdf
+•	2N2222 Transistor Datasheet: https://www.onsemi.com/pdf/datasheet/pn2222a-d.pdf
+•	Arduino PWM Reference: https://www.arduino.cc/en/Tutorial/Foundations/PWM
+•	LiquidCrystal_I2C Library: https://github.com/johnrickman/LiquidCrystal_I2C
+•	DHT Library: https://github.com/adidax/dht11
